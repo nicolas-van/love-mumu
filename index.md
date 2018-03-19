@@ -2,4 +2,4 @@
 layout: page
 ---
 
-Bonjour ma belle
+Bonjour ma belle.
