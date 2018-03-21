@@ -12,7 +12,7 @@ Tu te demanderas peut-être pourquoi j'ai choisi de m'adresser à toi l'intermé
 </div>
 </div>
 
-Bon, nous pouvons commencer...
+Bon, nous pouvons commencer.
 
 <div>
 <img class="w-25 ml-3 mt-2 mb-1 float-right" src="./owl1.png">
