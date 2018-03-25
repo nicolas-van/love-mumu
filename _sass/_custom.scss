@@ -1,0 +1,10 @@
+
+
+.p-img {
+  @include media-breakpoint-up(xs) {
+    width 25%;
+  }
+  @include media-breakpoint-up(sm) {
+    width 100px;
+  }
+}
